@@ -1,3 +1,3 @@
 # documentando o projeto
 
-## tá dando bomg
+## tá dando bom
